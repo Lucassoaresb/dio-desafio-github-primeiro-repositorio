@@ -9,11 +9,11 @@ Primeira coisa você precisa saber antes de escolher um treino é quantos dias n
 
 * #### AB 
 
-  Feito para iniciantes, o fundamento desse treino é criar um acomodamento ao corpo para a pessoa começar um ritmo de treinos mais intensos no futuro. podem ser feito 2, 4 ou 6 dias na semana.
+  Feito para iniciantes, o fundamento desse treino é criar força e costume ao corpo para a pessoa começar um ritmo de treinos mais intensos no futuro. podem ser feito 2, 4 ou 6 dias na semana.
 
 * #### ABC 
 
-  Feito para pessoas que treinam 3 ou 6 vezes na semana.
+  Feito para pessoas que treinam 3 ou 6 vezes na semana consistentemente com foco em progressão de peso ou fisioterapia.
 
   Ex: segunda, quarta e sexta ou segunda a sábado
 
