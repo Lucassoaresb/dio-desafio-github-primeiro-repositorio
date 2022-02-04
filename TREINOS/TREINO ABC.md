@@ -34,15 +34,15 @@ Supino declinado -------------- 3 x 8-10
 
 Crossover------------------------- 3 x 10-12
 
-desenvolvimento--------------- 3 x 10-12
+Desenvolvimento--------------- 3 x 10-12
 
-elevação lateral----------------- 3 x 8-10 [Progressão]
+Elevação lateral----------------- 3 x 8-10 [Progressão]
 
-elevação frontal---------------- 3 x 8-10
+Elevação frontal---------------- 3 x 8-10
 
-tríceps na polia----------------- 3 x 10-12
+Tríceps na polia----------------- 3 x 10-12
 
-tríceps no banco--------------- 3 x 10-12 
+Tríceps no banco--------------- 3 x 10-12 
 
 ===================================
 
@@ -54,9 +54,9 @@ Leg 45°------------------------- 4 x 10-12
 
 Extensora--------------------- 2 x falha
 
-flexora deitado------------- 3 x 10-12
+Flexora deitado------------- 3 x 10-12
 
- Panturrilha------------------- 4 x 45seg
+Panturrilha------------------- 4 x 45seg
 
 Panturrilha sentado------ 3 x 12-15
 
@@ -66,7 +66,7 @@ Abdominal na barra------ 4 x 10-15
 
 **caso esse treino seja feito 6 dias seguidos o treino de abdómen **
 
-**deve ser dia sim dia não**
+**deve ser dia sim, dia não**
 
 Abdominal na barra------ 4 x 10-15
 

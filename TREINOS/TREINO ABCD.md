@@ -66,20 +66,20 @@ Abdominal na polia------------- 3 x 15-20
 
 * **(D)** tríceps / bíceps / antebraço
 
-  tríceps barra----------------- 3 x 10-12
+  Tríceps barra----------------- 3 x 10-12
 
-  tríceps corda----------------- 3 x 10-12
+  Tríceps corda----------------- 3 x 10-12
 
-  tríceps banco---------------- 3 x 8-10
+  Tríceps banco---------------- 3 x 8-10
 
-  rosca direta------------------ 3 x 10
+  Rosca direta------------------ 3 x 10
 
-  rosca martelo--------------- 3 x 10-12
+  Rosca martelo--------------- 3 x 10-12
 
-  rosca concentrada-------- 3 x 6-8 
+  Rosca concentrada-------- 3 x 6-8 
 
-  rosca punho inversa----- 3 x 12-15
+  Rosca punho inversa----- 3 x 12-15
 
-  rosca punho---------------- 3 x 10
+  Rosca punho---------------- 3 x 10
 
 ========================================
